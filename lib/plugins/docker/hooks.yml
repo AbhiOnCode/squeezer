@@ -1,3 +1,0 @@
-- identifier : 'docker:init'
-  path : 'lib'
-  function : 'init'

@@ -1,0 +1,1968 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0ff96e52-81d9-440f-bca4-1014d6586b17" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/ISSUE_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.github/PULL_REQUEST_TEMPLATE.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.npmignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cli/Squeezer.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cli/bin.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cli/cli.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/cli/interface.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/CNAME" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/SUMMARY.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/_layouts/website/page.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/book.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/clouds.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/compile.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/config.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/create.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/deploy.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/fileutils.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/help.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/install.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/invoke.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/list.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/logs.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/microservice.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/run.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/serve.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/templates.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/test.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/update.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/cli/version.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/aws.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/aws_profile.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/cloudformation.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/Introduction.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/alexa.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/api_gateway.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/iot.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/s3.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/schedule.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/sns.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/streams/dynamodb.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/streams/kinesis.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/clouds/aws/events/streams/streams.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/common.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/development/command_hooks.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/development/inclusions.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/development/packaging.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/development/testing.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/images/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/images/introduction.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/images/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/gitbook/js/framework.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/internal.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/local_platform.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/plugins/debugging.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/plugins/example.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/plugins/introduction.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/plugins/lifecycle.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/projects/api/api.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/projects/api/swagger.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/projects/web/web.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/staging.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/docs/terminology.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/en.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/gulpfile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/archiver/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/checksums/dirsum.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/checksums/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/error/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/error/tests/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/help/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/loader/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/log/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/params/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/cli/params/tests/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/info/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/microservices/aws/nodejs/blog-example/config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/microservices/aws/nodejs/blog-example/env.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/microservices/aws/nodejs/blog-example/functions/graphql/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/microservices/aws/nodejs/blog-example/functions/graphql/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/microservices/aws/nodejs/blog-example/functions/hello/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/projects/nodejs/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/projects/nodejs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/clouds/samples/templates/squeezer.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/command/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/lifecycle/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/utils/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/validate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/variables/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/version/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/common/yaml/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/assets/ext-list.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/assets/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/main/apiGateway/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/main/base/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/main/iamPolicy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/main/iamRole/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/alexa/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/apiGateway/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/iot/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/s3/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/schedule/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/sns/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/events/stream/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/lambda/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/outputs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/credentials/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/deploy/cloudformation/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/deploy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/deploy/upload/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/invoke/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/logs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/aws/lib/run/lib/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/compile/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/compile/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/compile/lib/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/config/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/config/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/config/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/config/tests/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/create/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/create/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/create/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/deploy/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/deploy/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/deploy/lib/checksums.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/deploy/lib/compile.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/docker/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/docker/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/docker/lib/utils.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/lib/copy.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/lib/empty.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/lib/link.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/lib/mkdir.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/lib/move.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/fileutils/lib/remove.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/help/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/help/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/help/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/install/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/install/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/install/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/invoke/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/invoke/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/invoke/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/list/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/list/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/list/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/logs/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/logs/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/logs/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/microservices/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/microservices/lib/compile/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/microservices/lib/compile/lib/assets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/microservices/lib/compile/lib/checksums.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/microservices/lib/compile/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/microservices/lib/load/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/plugins.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/project/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/project/lib/create/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/project/lib/info/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/project/lib/validate/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/run/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/run/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/run/lib/common.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/run/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/aws/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/aws/lib/event/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/express/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/express/livereload.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/express/watcher.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/lib/swagger/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/favicon-16x16.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/favicon-32x32.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/index.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/oauth2-redirect.html" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui-bundle.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui-bundle.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui-standalone-preset.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui-standalone-preset.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui.css" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui.css.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/serve/public/swagger/swagger-ui.js.map" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/list.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/cloudformation/dynamo-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/cloudformation/kinesis-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/cloudformation/main-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/cloudformation/s3-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/cloudformation/sns-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/sqz.config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/sqz.swagger.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/sqz.tests.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/src/handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/src/lib/db/rest.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/src/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/microservices/products/tests/api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/shared.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/cloudformation/dynamo-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/cloudformation/kinesis-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/cloudformation/main-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/cloudformation/s3-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/cloudformation/sns-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/sqz.config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/sqz.swagger.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/sqz.tests.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/src/handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/src/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/tests/api.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/shared.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/sqz.config.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/sqz.tests.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/handler.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/web/assets/js/components/buttons.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/web/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/web/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/web/assets/static/images/png/large_logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/src/web/templates/default.pug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/microservices/hello/tests/web.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/js/components/theme.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/js/main.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/sass/base.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/sass/colors.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/sass/footer.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/sass/header.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/sass/main.scss" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/static/images/ico/favicon.ico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/assets/static/images/png/logo.png" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/templates/footer.pug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/templates/header.pug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/templates/main.pug" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/shared.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/bin/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/compile/development/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/compile/production/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/install/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/install/project.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/run/execute.function.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/test/execute.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/update/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/update/project.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/http/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/utils/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/squeezer.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/watcher.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/cloudformation/cdn-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/cloudformation/main-template.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/.babelrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/.editorconfig" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/.eslintignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/.eslintrc" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/bin/run.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/development/js.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/development/main.js.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/development/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/development/sass.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/development/static.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/production/js.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/production/main.js.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/production/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/production/sass.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/compile/production/static.assets.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/install/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/install/project.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/run/execute.function.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/test/execute.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/update/microservice.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/hooks/commands/update/project.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/http/assets.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/http/response.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/webpack/config.web.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/webpack/config.web.main.dev.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/webpack/config.web.main.prod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/webpack/config.web.prod.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/lib/webpack/plugins/nodeModules.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/livereload.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/squeezer.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/watcher.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/wdio.conf.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/test/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/test/lib/test/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/update/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/update/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/update/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/version/hooks.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/version/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/lib/plugins/version/lib/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/npm-shrinkwrap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/genCliDocs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/genFrameworkInfo.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/genTemplate.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/tasks/gulp/genClassesDocs.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/test/runner.js" afterPath="" />
+    </list>
+    <ignored path="squeezer-cli.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DatabaseView">
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_TABLE_DETAILS" value="true" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="squeezer-cli" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>not exist</find>
+      <find>Stack with id</find>
+      <find>compiled</find>
+      <find>rete</find>
+      <find>insts</find>
+      <find>l</find>
+      <find>logic</find>
+      <find>logicalI</find>
+      <find>logicalId</find>
+      <find>cmd</find>
+      <find>cmd.name</find>
+      <find>cli</find>
+      <find>cmd.names</find>
+      <find>order</find>
+      <find>md</find>
+      <find>test</find>
+      <find>n</find>
+      <find>new</find>
+      <find>new</find>
+      <find>new D</find>
+      <find>new Date</find>
+      <find>newDate</find>
+      <find>neDate</find>
+      <find>nDate</find>
+      <find>Date</find>
+      <find>mo</find>
+      <find>momen</find>
+      <find>moment</find>
+      <find>$</find>
+      <find>md/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>shared</replace>
+      <replace>this.sqz.vars.currentChecksums</replace>
+      <replace />
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/.github</dir>
+      <dir>$PROJECT_DIR$/lib/plugins</dir>
+      <dir>$PROJECT_DIR$/lib</dir>
+      <dir>$PROJECT_DIR$/lib/plugins/aws/lib/deploy/upload</dir>
+      <dir>$PROJECT_DIR$/lib/plugins/</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/shared.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/web/nodejs/squeezer.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/create/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/test/lib/test/index.js" />
+        <option value="$PROJECT_DIR$/lib/common/command/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/serve/lib/swagger/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/serve/lib/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/serve/lib/express/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/serve/lib/express/watcher.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/serve/lib/aws/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/shared/aws/api/nodejs/lib/hooks/commands/install/project.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/deploy/lib/compile.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/deploy/lib/checksums.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/cloudformation/dynamo-template.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/shared.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/shared.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/cloudformation/main-template.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/create/lib/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/aws/lib/compile/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/aws/lib/logs/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/aws/lib/invoke/index.js" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/sqz.config.yml" />
+        <option value="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/templates/main.pug" />
+        <option value="$PROJECT_DIR$/lib/plugins/aws/lib/run/lib/common.js" />
+        <option value="$PROJECT_DIR$/md/development/command_hooks.md" />
+        <option value="$PROJECT_DIR$/tasks/gulp/genCliDocs.js" />
+        <option value="$PROJECT_DIR$/md/cli/create.md" />
+        <option value="$PROJECT_DIR$/lib/common/cli/help/index.js" />
+        <option value="$PROJECT_DIR$/gulpfile.js" />
+        <option value="$PROJECT_DIR$/md/common.md" />
+        <option value="$PROJECT_DIR$/gitbook/layouts/header.html" />
+        <option value="$PROJECT_DIR$/_layouts/website/site.html" />
+        <option value="$PROJECT_DIR$/cli/interface.js" />
+        <option value="$PROJECT_DIR$/tasks/genFrameworkVersion.js" />
+        <option value="$PROJECT_DIR$/gitbook/framework.js" />
+        <option value="$PROJECT_DIR$/_layouts/website/page.html" />
+        <option value="$PROJECT_DIR$/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/docs/SUMMARY.md" />
+        <option value="$PROJECT_DIR$/tasks/gulp/genClassesDocs.js" />
+        <option value="$PROJECT_DIR$/book.json" />
+        <option value="$PROJECT_DIR$/docs/book.json" />
+        <option value="$PROJECT_DIR$/docs/README.md" />
+        <option value="$PROJECT_DIR$/docs/development/testing.md" />
+        <option value="$PROJECT_DIR$/test.js" />
+        <option value="$PROJECT_DIR$/tasks/genFrameworkInfo.js" />
+        <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/docs/_layouts/website/page.html" />
+        <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/docs/CNAME" />
+        <option value="$PROJECT_DIR$/tasks/genCliDocs.js" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBowerSettings">
+    <node-interpreter value="project" />
+    <exe-path>$USER_HOME$/.nvm/versions/node/v6.9.5/bin/bower</exe-path>
+    <config-path />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
+    <option name="width" value="1229" />
+    <option name="height" value="829" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>ActionScript specificJavaScript</id>
+          </State>
+          <State>
+            <id>Android</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Accessibility</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Correctness &gt; Messages</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Internationalization &gt; Bidirectional Text</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Performance</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Security</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Icons</id>
+          </State>
+          <State>
+            <id>Android &gt; Lint &gt; Usability &gt; Typography</id>
+          </State>
+          <State>
+            <id>Android Lint for Kotlin</id>
+          </State>
+          <State>
+            <id>Assignment issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Bitwise operation issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CSS</id>
+          </State>
+          <State>
+            <id>Class structureJava</id>
+          </State>
+          <State>
+            <id>Code quality toolsCSS</id>
+          </State>
+          <State>
+            <id>Code quality toolsJavaScript</id>
+          </State>
+          <State>
+            <id>Code style issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Control flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>CorrectnessLintAndroid</id>
+          </State>
+          <State>
+            <id>DOM issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Data flow issuesJavaScript</id>
+          </State>
+          <State>
+            <id>ECMAScript 6 migration aidsJavaScript</id>
+          </State>
+          <State>
+            <id>Error handlingJavaScript</id>
+          </State>
+          <State>
+            <id>Flow type checkerJavaScript</id>
+          </State>
+          <State>
+            <id>GSPGrailsGroovy</id>
+          </State>
+          <State>
+            <id>General</id>
+          </State>
+          <State>
+            <id>GeneralJavaScript</id>
+          </State>
+          <State>
+            <id>Google Web Toolkit issues</id>
+          </State>
+          <State>
+            <id>GrailsGroovy</id>
+          </State>
+          <State>
+            <id>Groovy</id>
+          </State>
+          <State>
+            <id>Java</id>
+          </State>
+          <State>
+            <id>JavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript function metricsJavaScript</id>
+          </State>
+          <State>
+            <id>JavaScript validity issuesJavaScript</id>
+          </State>
+          <State>
+            <id>Javadoc issuesJava</id>
+          </State>
+          <State>
+            <id>Kotlin</id>
+          </State>
+          <State>
+            <id>Language Injection</id>
+          </State>
+          <State>
+            <id>LintAndroid</id>
+          </State>
+          <State>
+            <id>Maven</id>
+          </State>
+          <State>
+            <id>Naming conventionsJavaScript</id>
+          </State>
+          <State>
+            <id>Numeric issuesJava</id>
+          </State>
+          <State>
+            <id>Plugin DevKit</id>
+          </State>
+          <State>
+            <id>Potentially confusing code constructsJavaScript</id>
+          </State>
+          <State>
+            <id>Probable bugsJavaScript</id>
+          </State>
+          <State>
+            <id>TypeScript</id>
+          </State>
+          <State>
+            <id>XPath</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Android</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="squeezer-cli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="squeezer-cli" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="js-jscs-nodeInterpreter" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
+    <property name="JavaScriptPreferStrict" value="true" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="editor.config.accepted" value="true" />
+    <property name="nodejs_interpreter_path" value="$USER_HOME$/.nvm/versions/node/v6.7.0/bin/node" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/nick/IdeaProjects/squeezer-cli/test-projects/my-first-project/microservices/hello/sqz.config.yml" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="js.eslint.nodeInterpreter" value="project" />
+    <property name="js.eslint.eslintPackage" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="$PROJECT_DIR$/node_modules/eslint" />
+    <property name="node.js.path.for.package.standard" value="project" />
+    <property name="node.js.selected.package.standard" value="" />
+    <property name="add_unversioned_files" value="$PROJECT_DIR$/README.md&#10;/Users/nick/IdeaProjects/squeezer-cli/test.js" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.standard" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/tasks" />
+      <recent name="$PROJECT_DIR$/gitbook/images" />
+      <recent name="$PROJECT_DIR$/md/images" />
+      <recent name="$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/docs/gitbook/images" />
+      <recent name="$PROJECT_DIR$/docs" />
+      <recent name="$PROJECT_DIR$/md/development" />
+      <recent name="$PROJECT_DIR$/tasks/gulp" />
+      <recent name="$PROJECT_DIR$/tasks" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Node.js.test.js">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android App">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="false" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
+      <module name="" />
+      <option name="TESTING_TYPE" value="0" />
+      <option name="INSTRUMENTATION_RUNNER_CLASS" value="" />
+      <option name="METHOD_NAME" value="" />
+      <option name="CLASS_NAME" value="" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="EXTRA_OPTIONS" value="" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="ENABLE_ADVANCED_PROFILING" value="true" />
+        <option name="GAPID_ENABLED" value="false" />
+        <option name="GAPID_DISABLE_PCS" value="false" />
+        <option name="SUPPORT_LIB_ENABLED" value="true" />
+        <option name="INSTRUMENTATION_ENABLED" value="true" />
+      </Profilers>
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="BashConfigurationType" factoryName="Bash">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="INTERPRETER_PATH" value="/bin/bash" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Cold Fusion runner description" factoryName="Cold Fusion" custom_browser="" web_path="">
+      <method />
+    </configuration>
+    <configuration default="true" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="myFilePath" />
+      <option name="GLUE" />
+      <option name="myNameFilter" />
+      <option name="myGeneratedName" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlashRunConfigurationType" factoryName="Flash App">
+      <option name="BCName" value="" />
+      <option name="IOSSimulatorSdkPath" value="" />
+      <option name="adlOptions" value="" />
+      <option name="airProgramParameters" value="" />
+      <option name="appDescriptorForEmulator" value="Android" />
+      <option name="debugTransport" value="USB" />
+      <option name="debuggerSdkRaw" value="BC SDK" />
+      <option name="emulator" value="NexusOne" />
+      <option name="emulatorAdlOptions" value="" />
+      <option name="fastPackaging" value="true" />
+      <option name="fullScreenHeight" value="0" />
+      <option name="fullScreenWidth" value="0" />
+      <option name="launchUrl" value="false" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="mobileRunTarget" value="Emulator" />
+      <option name="moduleName" value="" />
+      <option name="overriddenMainClass" value="" />
+      <option name="overriddenOutputFileName" value="" />
+      <option name="overrideMainClass" value="false" />
+      <option name="runTrusted" value="true" />
+      <option name="screenDpi" value="0" />
+      <option name="screenHeight" value="0" />
+      <option name="screenWidth" value="0" />
+      <option name="url" value="http://" />
+      <option name="usbDebugPort" value="7936" />
+      <method />
+    </configuration>
+    <configuration default="true" type="FlexUnitRunConfigurationType" factoryName="FlexUnit" appDescriptorForEmulator="Android" class_name="" emulatorAdlOptions="" method_name="" package_name="" scope="Class">
+      <option name="BCName" value="" />
+      <option name="launcherParameters">
+        <LauncherParameters>
+          <option name="browser" value="a7bb68e0-33c0-4d6f-a81a-aac1fdb870c8" />
+          <option name="launcherType" value="OSDefault" />
+          <option name="newPlayerInstance" value="false" />
+          <option name="playerPath" value="/Applications/Flash Player Debugger.app" />
+        </LauncherParameters>
+      </option>
+      <option name="moduleName" value="" />
+      <option name="trusted" value="true" />
+      <method />
+    </configuration>
+    <configuration default="true" type="GradleRunConfiguration" factoryName="Gradle">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list />
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <method />
+    </configuration>
+    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
+      <setting name="vmparams" value="" />
+      <setting name="cmdLine" value="run-app" />
+      <setting name="passParentEnv" value="true" />
+      <setting name="launchBrowser" value="true" />
+      <setting name="launchBrowserUrl" value="" />
+      <setting name="depsClasspath" value="false" />
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="true" type="JarApplication" factoryName="JAR Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="Java Scratch" factoryName="Java Scratch">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="SCRATCH_FILE_ID" value="0" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptNodeJsTraceType" factoryName="Spy-js for Node.js" config="" node="project" node-params="" app="" app-params="" working-dir="$PROJECT_DIR$" proxy-port="3547" pass-parent-env="true" limits="1,3,3,50">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerJest" factoryName="Jest">
+      <node-interpreter value="project" />
+      <working-dir value="" />
+      <envs />
+      <scope-kind value="ALL" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerProtractor" factoryName="Protractor">
+      <config-file value="" />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTraceType" factoryName="Spy-js" node="project" config="" has-config="false" system-proxy="true" proxy-port="3546" open-browser="false" browser="" limits="1,3,3,50">
+      <method />
+    </configuration>
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="squeezer-cli" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="filePath" />
+      <option name="vmParameters" />
+      <option name="alternativeJrePath" />
+      <option name="programParameters" />
+      <option name="passParentEnvs" value="true" />
+      <option name="workingDirectory" />
+      <option name="isAlternativeJrePathEnabled" value="false" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" working-dir="">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="executeSpecs" factoryName="Gauge Execution">
+      <setting name="environment" value="" />
+      <setting name="specsToExecute" value="" />
+      <setting name="tags" value="" />
+      <setting name="parallelNodes" value="" />
+      <setting name="execInParallel" value="false" />
+      <setting name="programParameters" value="" />
+      <setting name="workingDirectory" value="" />
+      <setting name="moduleName" value="" />
+      <envMap />
+      <setting name="rowsRange" value="" />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run" />
+      <scripts />
+      <node-interpreter value="project" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="mocha-javascript-test-runner" factoryName="Mocha">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <working-directory />
+      <pass-parent-env>true</pass-parent-env>
+      <envs />
+      <ui />
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory />
+      <recursive>false</recursive>
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
+      <method />
+    </configuration>
+    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
+      <method />
+    </configuration>
+    <configuration default="false" name="Node.js 6" type="JavaScriptNodeJsTraceType" factoryName="Spy-js for Node.js" config="" node="project" node-params="" app="" app-params="" working-dir="$PROJECT_DIR$" proxy-port="3547" pass-parent-env="true" limits="1,3,3,50">
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="false" name="test.js" type="NodeJSConfigurationType" factoryName="Node.js" path-to-node="project" path-to-js-file="test.js" working-dir="$PROJECT_DIR$">
+      <method />
+    </configuration>
+    <list size="2">
+      <item index="0" class="java.lang.String" itemvalue="Spy-js for Node.js.Node.js 6" />
+      <item index="1" class="java.lang.String" itemvalue="Node.js.test.js" />
+    </list>
+    <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
+      <module name="" />
+      <option name="DEPLOY" value="true" />
+      <option name="ARTIFACT_NAME" value="" />
+      <option name="PM_INSTALL_OPTIONS" value="" />
+      <option name="ACTIVITY_EXTRA_FLAGS" value="" />
+      <option name="MODE" value="default_activity" />
+      <option name="TARGET_SELECTION_MODE" value="SHOW_DIALOG" />
+      <option name="PREFERRED_AVD" value="" />
+      <option name="CLEAR_LOGCAT" value="false" />
+      <option name="SHOW_LOGCAT_AUTOMATICALLY" value="true" />
+      <option name="SKIP_NOOP_APK_INSTALLATIONS" value="true" />
+      <option name="FORCE_STOP_RUNNING_APP" value="true" />
+      <option name="DEBUGGER_TYPE" value="Java" />
+      <option name="USE_LAST_SELECTED_DEVICE" value="false" />
+      <option name="PREFERRED_AVD" value="" />
+      <Java />
+      <Profilers>
+        <option name="GAPID_DISABLE_PCS" value="false" />
+      </Profilers>
+      <option name="DEEP_LINK" value="" />
+      <option name="ACTIVITY_CLASS" value="" />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0ff96e52-81d9-440f-bca4-1014d6586b17" name="Default" comment="" />
+      <created>1475925827548</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1475925827548</updated>
+      <workItem from="1475925829477" duration="14844000" />
+      <workItem from="1476086905236" duration="137554000" />
+      <workItem from="1476873159993" duration="87206000" />
+      <workItem from="1477219373045" duration="100000" />
+      <workItem from="1477219516015" duration="48395000" />
+      <workItem from="1477488114742" duration="8917000" />
+      <workItem from="1477564910889" duration="45453000" />
+      <workItem from="1477926447513" duration="4287000" />
+      <workItem from="1478011507130" duration="573000" />
+      <workItem from="1478018257727" duration="552000" />
+      <workItem from="1478096016231" duration="576000" />
+      <workItem from="1478264852879" duration="1205000" />
+      <workItem from="1478693550757" duration="224000" />
+      <workItem from="1478693787448" duration="40528000" />
+      <workItem from="1479369379001" duration="36230000" />
+      <workItem from="1479812406472" duration="46946000" />
+      <workItem from="1480245260227" duration="216000" />
+      <workItem from="1480245599743" duration="529000" />
+      <workItem from="1480246397729" duration="94000" />
+      <workItem from="1480246508292" duration="78538000" />
+      <workItem from="1480857068601" duration="103549000" />
+      <workItem from="1481485888749" duration="62871000" />
+      <workItem from="1482145429359" duration="15448000" />
+      <workItem from="1482995097688" duration="69000" />
+      <workItem from="1482995215733" duration="65583000" />
+      <workItem from="1483603074913" duration="155272000" />
+      <workItem from="1484379751757" duration="82387000" />
+      <workItem from="1484806848650" duration="26268000" />
+      <workItem from="1484894716552" duration="44843000" />
+      <workItem from="1485152794312" duration="33652000" />
+      <workItem from="1485203516566" duration="30268000" />
+      <workItem from="1485293144387" duration="127787000" />
+      <workItem from="1485934523006" duration="17890000" />
+      <workItem from="1485967399169" duration="103209000" />
+      <workItem from="1486307542777" duration="16764000" />
+      <workItem from="1486456394337" duration="1919000" />
+      <workItem from="1486459488614" duration="99348000" />
+      <workItem from="1486979507034" duration="13979000" />
+      <workItem from="1487054271932" duration="20092000" />
+      <workItem from="1487097861720" duration="5337000" />
+      <workItem from="1487140918606" duration="392000" />
+      <workItem from="1487141441881" duration="175000" />
+      <workItem from="1487141878536" duration="48268000" />
+      <workItem from="1487254280201" duration="44984000" />
+      <workItem from="1487692542257" duration="38028000" />
+      <workItem from="1487871784739" duration="41330000" />
+      <workItem from="1488095089747" duration="15328000" />
+      <workItem from="1488193601216" duration="51251000" />
+      <workItem from="1488386670539" duration="38376000" />
+      <workItem from="1488620894588" duration="45000" />
+      <workItem from="1488620956254" duration="8000" />
+      <workItem from="1488620976305" duration="146000" />
+      <workItem from="1488621161308" duration="23384000" />
+      <workItem from="1488794627704" duration="4739000" />
+      <workItem from="1488864086283" duration="449000" />
+      <workItem from="1488864645308" duration="55002000" />
+      <workItem from="1489137103900" duration="896000" />
+      <workItem from="1489138506774" duration="20091000" />
+      <workItem from="1489219622618" duration="40000" />
+      <workItem from="1489219705563" duration="50653000" />
+      <workItem from="1489387123575" duration="37514000" />
+      <workItem from="1489556148673" duration="68147000" />
+      <workItem from="1490341999975" duration="147000" />
+      <workItem from="1490688042941" duration="620000" />
+      <workItem from="1490787694419" duration="1595000" />
+      <workItem from="1490814462565" duration="33561000" />
+      <workItem from="1491282576514" duration="19673000" />
+      <workItem from="1491330160816" duration="74109000" />
+      <workItem from="1491723050220" duration="43472000" />
+      <workItem from="1492071261811" duration="2175000" />
+      <workItem from="1492083051928" duration="1085000" />
+      <workItem from="1492086100459" duration="5601000" />
+      <workItem from="1492103368303" duration="5527000" />
+      <workItem from="1492172212286" duration="1920000" />
+      <workItem from="1492178284995" duration="41000" />
+      <workItem from="1492178403282" duration="33292000" />
+      <workItem from="1492320240851" duration="28093000" />
+      <workItem from="1492496616676" duration="62376000" />
+      <workItem from="1493013532324" duration="8356000" />
+      <workItem from="1493026099215" duration="37413000" />
+      <workItem from="1493203948418" duration="17487000" />
+    </task>
+    <task id="LOCAL-00001" summary="removed docs backup">
+      <created>1493271483254</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1493271483254</updated>
+    </task>
+    <task id="LOCAL-00002" summary="updated gulp-documentation package">
+      <created>1493272053202</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1493272053202</updated>
+    </task>
+    <task id="LOCAL-00003" summary="wrapped a new npm shrink">
+      <created>1493272079149</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1493272079149</updated>
+    </task>
+    <task id="LOCAL-00004" summary="added github pages CNAME">
+      <created>1493272734468</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1493272734468</updated>
+    </task>
+    <task id="LOCAL-00005" summary="fixed cli docs gen">
+      <created>1493273451123</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1493273451123</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2495291000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="23" width="1229" height="829" extended-state="0" />
+    <layout>
+      <window_info id="GfmBrowser" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964224" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Nl-Palette" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.44884038" sideWeight="0.51053077" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940185" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32880205" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24936816" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24957411" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994452" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32732317" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.40027136" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Thumbnails" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971507" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.4423338" sideWeight="0.48946926" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2780118" sideWeight="0.4454343" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32610443" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32181972" sideWeight="0.5545657" order="6" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="processedProjectFiles" value="true" />
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="removed docs backup" />
+    <MESSAGE value="updated gulp-documentation package" />
+    <MESSAGE value="wrapped a new npm shrink" />
+    <MESSAGE value="added github pages CNAME" />
+    <MESSAGE value="fixed cli docs gen" />
+    <option name="LAST_COMMIT_MESSAGE" value="fixed cli docs gen" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="17" />
+    </breakpoint-manager>
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/cloudformation/main-template.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="1" selection-end-line="6" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/create/lib/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="37" column="45" lean-forward="false" selection-start-line="37" selection-start-column="45" selection-end-line="37" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/shared.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/lambda/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-203">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/lib/compile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/compile/lib/cloudformation/microservice/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-211">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/compile/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="116" column="32" lean-forward="true" selection-start-line="116" selection-start-column="32" selection-end-line="116" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/logs/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="287">
+          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="92" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/invoke/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="22" column="66" lean-forward="false" selection-start-line="22" selection-start-column="66" selection-end-line="22" selection-end-column="66" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs-rest/data/cloudformation/main-template.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="31" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/sqz.config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="196">
+          <caret line="44" column="18" lean-forward="true" selection-start-line="44" selection-start-column="18" selection-end-line="44" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/templates/header.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-web-nodejs-reactjs/data/web/templates/main.pug">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/aws/lib/run/lib/common.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="35" column="0" lean-forward="true" selection-start-line="35" selection-start-column="0" selection-end-line="35" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/serve/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="29" lean-forward="true" selection-start-line="11" selection-start-column="0" selection-end-line="12" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/lib/samples/aws-api-nodejs/data/microservices/hello/src/handler.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="true" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/development/inclusions.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/development/command_hooks.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="255">
+            <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cli/bin.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="25" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/common/command/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/common/cli/help/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="229">
+          <caret line="34" column="48" lean-forward="false" selection-start-line="34" selection-start-column="48" selection-end-line="34" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cli/create.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="345">
+            <caret line="23" column="2" lean-forward="false" selection-start-line="23" selection-start-column="2" selection-end-line="23" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/md/classes/clouds_info.md" />
+    <entry file="file://$PROJECT_DIR$/gulpfile.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="11" lean-forward="false" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/common.md">
+      <provider selected="true" editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/plugins/templates/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gitbook/layouts/header.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/website/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-428">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/gitbook/images/favicon.ico">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/staging.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="-309">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_book/gitbook/gitbook.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-4470">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cli/Squeezer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cli/interface.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="0" lean-forward="false" selection-start-line="10" selection-start-column="0" selection-end-line="10" selection-end-column="52" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/genTemplate.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/book.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/README.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/gulp/genClassesDocs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="25" lean-forward="false" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/development/testing.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="493">
+            <caret line="45" column="26" lean-forward="false" selection-start-line="45" selection-start-column="26" selection-end-line="45" selection-end-column="26" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="24" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/gitbook/framework.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/genFrameworkInfo.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="2" lean-forward="false" selection-start-line="12" selection-start-column="2" selection-end-line="12" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="23" lean-forward="false" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/website/page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="false" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="63">
+          <caret line="78" column="13" lean-forward="false" selection-start-line="78" selection-start-column="13" selection-end-line="78" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="0" lean-forward="false" selection-start-line="18" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cli/clouds.md">
+      <provider selected="true" editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/cli/compile.md">
+      <provider selected="true" editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/CNAME">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="false" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/SUMMARY.md">
+      <provider editor-type-id="Gfm">
+        <state />
+      </provider>
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor relative-caret-position="1019">
+            <caret line="89" column="0" lean-forward="false" selection-start-line="89" selection-start-column="0" selection-end-line="89" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/tasks/genCliDocs.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="42" column="38" lean-forward="true" selection-start-line="42" selection-start-column="38" selection-end-line="42" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>squeezer-cli</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
